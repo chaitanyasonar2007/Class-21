@@ -1,2 +1,2 @@
-# Class-21
-Function which take argument
+# p5.play-boilerplate
+Boiler plate for p5.play
